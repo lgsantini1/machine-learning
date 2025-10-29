@@ -1,6 +1,6 @@
-# Tech Challenge IADT - Classificação de ECG
+# Tech Challenge I - Classificação de ECG
 
-Este repositório reúne os artefatos produzidos para o Tech Challenge da pós-graduação IADT. O objetivo é construir um sistema de apoio ao diagnóstico capaz de classificar exames de eletrocardiograma (ECG) como **saudáveis** ou **potencialmente não saudáveis**, priorizando a identificação de pacientes que necessitam de atenção.
+Este repositório reúne os artefatos produzidos para o Tech Challenge da pós-graduação I. O objetivo é construir um sistema de apoio ao diagnóstico capaz de classificar exames de eletrocardiograma (ECG) como **saudáveis** ou **potencialmente não saudáveis**, priorizando a identificação de pacientes que necessitam de atenção.
 
 ## 📂 Estrutura do Projeto
 
@@ -51,4 +51,4 @@ Esses resultados indicam que o modelo possui boa capacidade de generalização e
 
 ## 📄 Licença
 
-Este projeto está disponível apenas para fins educacionais no contexto do Tech Challenge IADT. Verifique com a equipe responsável antes de utilizá-lo em outros contextos.
+Este projeto está disponível apenas para fins educacionais no contexto do Tech Challenge I. Verifique com a equipe responsável antes de utilizá-lo em outros contextos.
